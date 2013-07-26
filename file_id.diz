@@ -1,0 +1,1 @@
+sct01b.zip encrypts any file with a password, puts out to a file or stdout. Precompiled for OS/2, should work on every other platform too. Input can come from stdin or a file. Simple but effective algorithm. With C source. Another Warpware by Julian Buss.

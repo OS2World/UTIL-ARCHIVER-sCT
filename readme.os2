@@ -1,0 +1,20 @@
+sCt 0.1beta simple crypto tool
+==============================
+
+This tool is developed with emx and gcc under OS/2 Warp4.
+
+Therefore, you NEED the emx runtime library for OS/2!
+If you don't know what emx is: a great package that allows unix programs
+to be recompiled as OS/2 programs. 
+The runtime of emx can be found and ftp.leo.org, ftp.cdrom.com and nearly
+every better OS/2 site in the internet. 
+Just install emx like it's docs say, and the sct.exe should run fine.
+
+If you have emx AND make and the famous gcc C compiler installed, you can
+compile sct by just calling "make". The makefile is very simple and should
+do the job.
+
+Have fun,
+ Julian
+
+julian@wh.fh-wedel.de
